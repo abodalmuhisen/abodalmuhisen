@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/abodalmuhisen](github.com/abodalmuhisen)
 
-- 💬 Ask me about **AI & ML, Python, Technology**
+- 💬 Ask me about **AI & ML, Python, Tech**
 
 - 📫 How to reach me **abodalmuhisen05@gmail.com**
 
